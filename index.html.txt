@@ -1,3 +1,10 @@
-<p>Welcome to my page</p>
-
-BSIT-2C
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>My Website</h1>
+  <img src="photo.jpg" width="200">
+</body>
+</html>
